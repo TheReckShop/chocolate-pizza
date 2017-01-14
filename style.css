@@ -1,0 +1,67 @@
+* {
+  border: solid black 1px;
+}
+
+html {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+/*HEADER*/
+#delicious {
+  font-family: 'Lobster', cursive;
+  float: left;
+  margin: 2%;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  display: block;
+}
+
+#upper-right-corner {
+  display: inline-block;
+}
+
+#best {
+  margin-top: 0px;
+  font-size: 10px;
+  display: block;
+  margin: 0px;
+}
+
+#logo-combo {
+  float: left;
+  display: block;
+  padding-top: 0;
+  width: 200px;
+}
+
+#logo-text {
+  /*clear: both;*/
+  display: block;
+}
+
+#logo-top-left {
+  float: left;
+}
+
+#website-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#website-links ul li {
+  display: inline;
+}
+
+#function-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display:inline-block;
+}
+
+
+.article-text p {
+  text-indent: 20px;
+  margin
+}
